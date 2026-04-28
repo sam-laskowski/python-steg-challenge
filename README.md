@@ -6,5 +6,7 @@ A seemingly ordinary company logo  contains a secret message hidden within its p
 ## Quick Start
 1. **Clone or Fork** this repository.
 2. **Install Dependencies**: 
-   You will need the `Pillow` library to handle image processing.
+   You will need the [Pillow](https://pypi.org/project/pillow/) library (the modern version of PIL) to handle image processing.
+   ```bash
+   pip install Pillow
    
